@@ -1,5 +1,3 @@
-### Hi there 👋
-
 🔭 I’m currently working on
 A collaboration game with websocket for real time interations :)
 
