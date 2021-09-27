@@ -6,7 +6,7 @@ A collaboration game with websocket for real time interations :)
 ## Hey there ! 😃
 <div align="center">
   <a href="https://github.com/mmarcmartins">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_allhttps://github.com/rafaballerini_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mmarcmartins&show_icons=true&theme=dracula&include_allhttps://github.com/mmarcmartins_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
